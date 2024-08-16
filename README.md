@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on developing a solution to automate process control in rechargeable battery production.
 - 📫 How to reach me? 
 
+Good Repo Found: https://github.com/Cysharp 
+
+
 <!---
 froggy96/froggy96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
